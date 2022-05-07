@@ -1,4 +1,4 @@
-# Olá, bem-vindo(a) ao meu perfil!
+# Olá! Eu sou Ricardo Costa!
 
 <div align="center">
   <a href="https://github.com/ricardolhc">
