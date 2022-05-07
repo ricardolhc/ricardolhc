@@ -1,4 +1,4 @@
-# Olá! Eu sou Ricardo Costa 😁
+# Olá! Eu sou Ricardo Costa 🚀
 
 <div align="center">
   <a href="https://github.com/ricardolhc">
