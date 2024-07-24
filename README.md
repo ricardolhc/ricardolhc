@@ -6,8 +6,6 @@
   
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolhc&layout=compact&hide_border=true&title_color=bluetext_color=ff91a4&bg_color=0d1117" />
 </div>
-  
-![Snake animation](https://github.com/ricardolhc/ricardolhc/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block">
   <img align="center" alt="Postgresql" title="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
